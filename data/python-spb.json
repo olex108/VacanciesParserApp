@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Аналитик данных",
+        "link": "https://hh.ru/vacancy/125165743",
+        "salary": {
+            "from": 70000,
+            "to": 0
+        },
+        "description": "Опыт работы от 1 года (готовы рассмотреть кандидатов без опыта при наличии сильных теоретических знаний). Базовое знание <highlighttext>Python</highlighttext> (pandas, numpy..."
+    },
+    {
+        "name": "Аналитик данных",
+        "link": "https://hh.ru/vacancy/125134752",
+        "salary": {
+            "from": 0,
+            "to": 0
+        },
+        "description": "Владеете SQL на уверенном уровне. Имеете опыт работы с <highlighttext>Python</highlighttext> (библиотеки Pandas, NumPy) для анализа данных. Умеете визуализировать данные в..."
+    },
+    {
+        "name": "Начинающий чатовый сотрудник для маркетплейса",
+        "link": "https://hh.ru/vacancy/124536405",
+        "salary": {
+            "from": 45300,
+            "to": 75450
+        },
+        "description": "У вас грамотная письменная речь. Наличие ПК/ноутбука, стабильного интернета и гарнитуры."
+    },
+    {
+        "name": "Python developer",
+        "link": "https://hh.ru/vacancy/124459637",
+        "salary": {
+            "from": 0,
+            "to": 200000
+        },
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> (FastAPI) от 2 лет. Опыт работы с реляционными БД(PostgreSQL). Опыт работы с Kafka, Redis. "
+    },
+    {
+        "name": "QA Engineer (Тестировщик ПО)",
+        "link": "https://hh.ru/vacancy/124931565",
+        "salary": {
+            "from": 110000,
+            "to": 0
+        },
+        "description": "Умение читать технические диаграммы (UML, BPMN и др.). Опыт работы с RabbitMQ или другими брокерами сообщений. Базовые знания PHP/<highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Аналитик данных",
+        "link": "https://hh.ru/vacancy/125103562",
+        "salary": {
+            "from": 130000,
+            "to": 0
+        },
+        "description": "Умение работать с различными источниками данных (Excel, API, CSV, ERP/учетные системы). Желательно знание <highlighttext>Python</highlighttext>, SQL-запросов. Будет преимуществом: опыт..."
+    },
+    {
+        "name": "Бизнес-аналитик",
+        "link": "https://hh.ru/vacancy/125020297",
+        "salary": {
+            "from": 100000,
+            "to": 120000
+        },
+        "description": "Высшее образование (желательно техническое или математическое). Плюсом будет знание языков программирования (например, SQL, <highlighttext>Python</highlighttext>). Понимание принципов работы реляционных баз данных. "
+    },
+    {
+        "name": "Junior по созданию ИИ-агентов (стажёр/джун)",
+        "link": "https://hh.ru/vacancy/124977560",
+        "salary": {
+            "from": 50000,
+            "to": 70000
+        },
+        "description": "Базовый <highlighttext>Python</highlighttext>, git; знакомство с LangChain/LLM-инфрой — бонус. Быстрые реальные задачи и видимый результат. Софт навыки для нас: Любопытство..."
+    },
+    {
+        "name": "BI Analyst",
+        "link": "https://hh.ru/vacancy/125158892",
+        "salary": {
+            "from": 0,
+            "to": 0
+        },
+        "description": "Отличное знание SQL, <highlighttext>Python</highlighttext>. Умение пользоваться <highlighttext>Python</highlighttext>-библиотеками (Pandas, NumPy). Опыт работы с dbt. Опыт работы с оркестраторами (Airflow / Dagster). "
+    },
+    {
+        "name": "Middle Python Developer",
+        "link": "https://hh.ru/vacancy/124889552",
+        "salary": {
+            "from": 0,
+            "to": 0
+        },
+        "description": "Имеешь опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2 лет. Имеешь опыт работы с любым крупным Web Фреймворком <highlighttext>Python</highlighttext> (предпочтительно Django..."
+    }
+]
