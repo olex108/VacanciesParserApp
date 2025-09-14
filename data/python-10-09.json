@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Python-разработчик",
+        "link": "https://hh.ru/vacancy/125138836",
+        "salary": {
+            "from": 500000,
+            "to": 0
+        },
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> 3.9+. Отличные знания FastAPI (или аналогов: Django REST Framework, Flask). Уверенные навыки работы..."
+    },
+    {
+        "name": "Python Django developer",
+        "link": "https://hh.ru/vacancy/125010047",
+        "salary": {
+            "from": 0,
+            "to": 1000
+        },
+        "description": "Опыт: 3–6 лет в разработке на <highlighttext>Python</highlighttext>/Django. Multi tenancy. Уверенное владение <highlighttext>Python</highlighttext> 3 и фреймворком Django (DRF). "
+    },
+    {
+        "name": "Директор по финансовому моделированию и сценарному анализу",
+        "link": "https://hh.ru/vacancy/125169109",
+        "salary": {
+            "from": 0,
+            "to": 0
+        },
+        "description": "Навыки анализа данных с помощью <highlighttext>Python</highlighttext> и R. Опыт работы с СУБД PostgreSQL и SQLite. Знание подходов к оценке кредитных..."
+    },
+    {
+        "name": "Тестировщик ПО",
+        "link": "https://hh.ru/vacancy/125165964",
+        "salary": {
+            "from": 0,
+            "to": 0
+        },
+        "description": "Опыт работы с SQL для проверки данных в базах. Знание основ программирования (например, <highlighttext>Python</highlighttext>, С/С++) будет плюсом. "
+    }
+]
